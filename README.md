@@ -20,7 +20,7 @@ It is based on the [CMIP6-json-data-citation-generator](https://github.com/znich
 
 ### JSON generator package: Content 
 The software includes 4 subdirectories in JSON generator:
-* /CMIP6_output_data: This folder includes some DRS examples for CMIP6 and Input4MIPs. 
+* /CMIP6_output_data: This folder includes some DRS examples for CMIP6s. 
 * /input_templates: Folder for the valid JSON files as template and the YAML-files, produced by the software just as a working format
 * /output_json: generated JSON files 
 * /src: all necessary software packages and the script create_new_citation_json.py
