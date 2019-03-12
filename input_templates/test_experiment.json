@@ -1,0 +1,118 @@
+
+
+
+
+
+{
+  "identifier": {
+      "identifierType": "URL",
+      "id": "http://cera-www.dkrz.de/WDCC/testmeta/CMIP6/CMIP6.C4MIP.PCMDI.PCMDI-test-1-0.ssp534-over-bgc"
+    },
+  "creators": [    
+      {        
+        "creatorName": "Ament, Felix",
+        "givenName": "Felix",
+        "familyName": "Ament",
+        "email": "felix.ament@meteoswiss.ch", 
+        "affiliation": "Federal Office of Meteorology and Climatology MeteoSwiss"      
+      },
+    
+      {
+        "creatorName": "Stockhause, Martina",
+        "givenName": "Martina",
+        "familyName": "Stockhause",
+        "email": "stockhause@dkrz.de",
+        "nameIdentifier": {
+            "pid": "0000-0001-6636-4972",
+            "nameIdentifierScheme": "ORCID",
+            "schemeURI": "http://orcid.org/"
+          }, 
+        "affiliation": "Deutsches Klimarechenzentrum (DM)"
+      }              
+    ],
+  "titles": [
+      "PCMDI PCMDI-test1.0 ssp534-over-bgc model output prepared for CMIP6 C4MIP"
+    ],
+  "publisher": "Earth System Grid Federation",
+  "publicationYear": "2017",
+  
+  "subjects": [   
+      {        
+        "subject": "CMIP6.C4MIP.PCMDI.PCMDI-test-1-0.ssp534-over-bgc",
+        "schemeURI": "http://github.com/WCRP-CMIP/CMIP7_CVs",
+        "subjectScheme": "DRS"        
+      },
+    
+      {        
+        "subject": "climate"        
+      },    
+      {        
+        "subject": "CMIP6"        
+      }    
+    ],  
+  "contributors": [
+      {
+        "contributorType": "ContactPerson",
+        "givenName": "Martina",
+        "familyName": "Stockhause",
+        "email": "stockhause@dkrz.de",
+        "nameIdentifier": {
+            "pid": "0000-0001-6636-4972",
+            "nameIdentifierScheme": "ORCID",
+            "schemeURI": "http://orcid.org/"
+          }, 
+        "affiliation": "Deutsches Klimarechenzentrum (DM)",
+        "contributorName": "Stockhause, Martina"
+      }
+    ],
+  "dates": [   
+      { 
+        "dateType": "Created",
+        "date": "2017-02-06"
+      }    
+    ],
+  "language": "en",
+  "resourceType": {
+      "resourceTypeGeneral": "Dataset",
+      "resourceType": "Digital"
+    }, 
+  "formats": [
+      {
+        "format": "application/x-netcdf"
+      }
+    ],
+  
+  "rightsList": [   
+      {
+        "rightsURI": "http://creativecommons.org/licenses/by-sa/4.0/",
+        "rights": "Creative Commons Attribution 4.0 International License (CC BY-SA 4.0)"
+      }    
+    ],
+    
+  "descriptions": [   
+      {
+        "descriptionType": "Abstract",
+        "text": "Coupled Model Intercomparison Project Phase 6 (CMIP6) data sets. These data includes all datasets published for 'CMIP6.C4MIP.PCMDI.PCMDI-test-1-0' according to the Data Reference Syntax defined as 'mip_era.activity_id.institution_id.source_id.experiment_id.member_id.table_id.variable_id.grid_label.version'.  The Earth System Model PCMDI-test 1.0 (This entry is free text for users to contribute verbose information), released in 1989, includes the components:  atmos: Earth1.0-gettingHotter (360 x 180 longitude/latitude; 50 levels; top level 0.1 mb), land: Earth1.0, ocean: BlueMarble1.0-warming (360 x 180 longitude/latitude; 50 levels; top grid cell 0-10 m), seaIce: Declining1.0-warming (360 x 180 longitude/latitude). The model was run by the Program for Climate Model Diagnosis and Intercomparison, Lawrence Livermore National Laboratory, Livermore, CA 94550, USA (PCMDI) in native nominal resolutions: atmos: 1x1 degree, land: 1x1 degree, ocean: 1x1 degree, seaIce: 1x1 degree. Project: These data have been generated as part of the internationally-coordinated Coupled Model Intercomparison Project Phase 6 (CMIP6). The simulation data provides a basis for climate research designed to answer fundamental science questions, and the results will undoubtedly be relied on by authors of the Sixth Assessment Report of the Intergovernmental Panel on Climate Change (IPCC-AR6).CMIP6 is a project coordinated by the Working Group on Coupled Modelling (WGCM) as part of the World Climate Research Programme (WCRP). Phase 6 builds on previous phases executed under the leadership of the Program for Climate Model Diagnosis and Intercomparison (PCMDI) and relies on the Earth System Grid Federation (ESGF) and the Centre for Environmental Data Analysis (CEDA) along with numerous related activities for implementation. The original data is hosted and partially replicated at a federated collection of data nodes, and most of the data relied on by the IPCC is being archived for long-term preservation at the IPCC Data Distribution Centre (IPCC DDC) hosted by World Data Centre for Climate (WDCC) at DKRZ.The project includes simulations from about 80 global climate models and around 30 institutions and organizations worldwide. - Project website: https://pcmdi.llnl.gov/CMIP6."
+      }    
+    ] ,
+  "fundingReferences": [    
+      {
+        "funderName": "Deutsches Klimarechenzentrum (DM) (DKRZ)", 
+        "nameIdentifier": {	
+          "schemeURI":	"http://www.isni.org/isni/",
+          "nameIdentifierScheme": "ISNI",
+          "pid":	"0000000090008794"}
+      },
+    
+      {
+        "funderName": "University of Hamburg (MI) (UNI_HH-MI)"      
+      }   
+    ] ,  
+  "relatedIdentifiers": [
+      {
+        "relatedIdentifier": "10.5194/gmd-10-2247-2017",
+        "relatedIdentifierType": "DOI",
+        "relationType": "IsCitedBy" 
+      }
+    ]    
+}

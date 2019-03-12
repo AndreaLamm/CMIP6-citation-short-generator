@@ -1,0 +1,74 @@
+{
+    "contributors": [
+        {
+            "affiliation": "Deutsches Klimarechenzentrum (DM)",
+            "contributorName": "Stockhause, Martina",
+            "contributorType": "ContactPerson",
+            "email": "stockhause@dkrz.de",
+            "familyName": "Stockhause",
+            "givenName": "Martina",
+            "nameIdentifier": {
+                "nameIdentifierScheme": "ORCID",
+                "pid": "0000-0001-6636-4972",
+                "schemeURI": "http://orcid.org/"
+            }
+        }
+    ],
+    "creators": [
+        {
+            "affiliation": "Federal Office of Meteorology and Climatology MeteoSwiss",
+            "creatorName": "Ament, Felix",
+            "email": "felix.ament@meteoswiss.ch",
+            "familyName": "Ament",
+            "givenName": "Felix"
+        },
+        {
+            "affiliation": "Deutsches Klimarechenzentrum (DM)",
+            "creatorName": "Stockhause, Martina",
+            "email": "stockhause@dkrz.de",
+            "familyName": "Stockhause",
+            "givenName": "Martina",
+            "nameIdentifier": {
+                "nameIdentifierScheme": "ORCID",
+                "pid": "0000-0001-6636-4972",
+                "schemeURI": "http://orcid.org/"
+            }
+        }
+    ],
+    "fundingReferences": [
+        {
+            "funderName": "Deutsches Klimarechenzentrum (DM) (DKRZ)",
+            "nameIdentifier": {
+                "nameIdentifierScheme": "ISNI",
+                "pid": "0000000090008794",
+                "schemeURI": "http://www.isni.org/isni/"
+            }
+        },
+        {
+            "funderName": "University of Hamburg (MI) (UNI_HH-MI)"
+        }
+    ],
+    "relatedIdentifiers": [
+        {
+            "relatedIdentifier": "10.5194/gmd-10-2247-2017",
+            "relatedIdentifierType": "DOI",
+            "relationType": "IsCitedBy"
+        }
+    ],
+    "subjects": [
+        {
+            "schemeURI": "http://github.com/WCRP-CMIP/CMIP6_CVs",
+            "subject": "CMIP6.DCPP.CNRM-CERFACS.CNRM-CM6-1.experiment-test2",
+            "subjectScheme": "DRS"
+        },
+        {
+            "subject": "climate"
+        },
+        {
+            "subject": "CMIP6"
+        }
+    ],
+    "titles": [
+        "CMIP6 CNRM-CERFACS CNRM-CM6-1 experiment-test2 model output"
+    ]
+}

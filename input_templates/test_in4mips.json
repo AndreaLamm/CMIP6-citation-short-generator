@@ -1,0 +1,86 @@
+{
+    "contributors": [
+        {
+            "affiliation": "University of Melbourne",
+            "contributorName": "Meinshausen, Malte",
+            "contributorType": "ContactPerson",
+            "email": "malte.meinshausen@unimelb.edu.au",
+            "familyName": "Meinshausen",
+            "givenName": "Malte",
+            "nameIdentifier": {
+                "nameIdentifierScheme": "ORCID",
+                "pid": "0000-0003-4048-3521",
+                "schemeURI": "https://orcid.org/"
+            }
+        },
+        {
+            "contributorName": "Institut Pierre Simon Laplace (IPSL)",
+            "contributorType": "ResearchGroup",
+            "nameIdentifier": {
+                "nameIdentifierScheme": "ISNI",
+                "pid": "0000000090008794",
+                "schemeURI": "http://www.isni.org/isni/"
+            }
+        }
+    ],
+    "creators": [
+        {
+            "affiliation": "University of Melbourne",
+            "creatorName": "Meinshausen, Malte",
+            "email": "malte.meinshausen@unimelb.edu.au",
+            "familyName": "Meinshausen",
+            "givenName": "Malte",
+            "nameIdentifier": {
+                "nameIdentifierScheme": "ORCID",
+                "pid": "0000-0003-4048-3521",
+                "schemeURI": "https://orcid.org/"
+            }
+        },
+        {
+            "affiliation": "University of Melbourne",
+            "creatorName": "Nicholls, Zebedee R. J.",
+            "email": "zebedee.nicholls@climate-energy-college.org",
+            "familyName": "Nicholls",
+            "givenName": "Zebedee R. J.",
+            "nameIdentifier": {
+                "nameIdentifierScheme": "ORCID",
+                "pid": "0000-0002-4767-2723",
+                "schemeURI": "https://orcid.org/"
+            }
+        }
+    ],
+    "fundingReferences": [
+        {
+            "funderName": "Australian Research Council (ARC)"
+        },
+        {
+            "funderName": "European Union (EU)"
+        }
+    ],
+    "relatedIdentifiers": [
+        {
+            "relatedIdentifier": "10.5194/gmd-10-2057-2017",
+            "relatedIdentifierType": "DOI",
+            "relationType": "IsDocumentedBy"
+        }
+    ],
+    "subjects": [
+        {
+            "schemeURI": "http://github.com/WCRP-CMIP/CMIP6_CVs",
+            "subject": "input4MIPs.CMIP6.CMIP.UoM.UoM-CMIP-1-2-0",
+            "subjectScheme": "DRS"
+        },
+        {
+            "subject": "forcing data"
+        },
+        {
+            "subject": "climate"
+        },
+        {
+            "subject": "CMIP6"
+        }
+    ],
+    "titles": [
+        "UoM-CMIP-1-2-0 GHG concentrations"
+    ]
+}
