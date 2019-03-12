@@ -49,7 +49,7 @@ CMIP6 Directory structure =
 <mip_era> / <activity_id> / <source_id> / <experiment_id> / <member_id> / …
 In the last block (yellow arrow) the json template files has to be named (please copy your template to the “template_dir” directory).
 
-![Figure 1: Part of the python script create_new_citation_json.py which has to be adopted by the user.](/https://github.com/AndreaLamm/CMIP6-citation-short-generator/blob/master/screenshot_script.png)
+![Figure 1: Part of the python script create_new_citation_json.py which has to be adopted by the user.](https://github.com/AndreaLamm/CMIP6-citation-short-generator/blob/master/screenshot_script.png)
 
 Your template JSON file should include all necessary information for the chosen source and/or experiment, which are the following attributes:
 * creator
